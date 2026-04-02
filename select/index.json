@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "スピード",
+  "base_artist": "森口博子",
+  "createdAt": "2026-04-02T05:16:29.003986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スピード・ボート",
+      "artist": "松田 聖子",
+      "has_synced": false,
+      "path": "select/01_スピード・ボート_松田_聖子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スピード・ボート",
+      "artist": "松田聖子",
+      "has_synced": false,
+      "path": "select/02_スピード・ボート_松田聖子.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スピード☆スター",
+      "artist": "Aya Hirano",
+      "has_synced": false,
+      "path": "select/03_スピード☆スター_Aya_Hirano.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スピード",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": false,
+      "path": "select/04_スピード_THE_BLUE_HEARTS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スピード",
+      "artist": "Analogfish",
+      "has_synced": true,
+      "path": "select/05_スピード_Analogfish.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スピード",
+      "artist": "Analogfish",
+      "has_synced": true,
+      "path": "select/06_スピード_Analogfish.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スピード",
+      "artist": "Analogfish",
+      "has_synced": true,
+      "path": "select/07_スピード_Analogfish.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スピード",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/08_スピード_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スピード アップ",
+      "artist": "KARA",
+      "has_synced": false,
+      "path": "select/09_スピード_アップ_KARA.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スピード",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/10_スピード_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スピード・ウェイ",
+      "artist": "中山美穂",
+      "has_synced": false,
+      "path": "select/11_スピード・ウェイ_中山美穂.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スピード (Live at 横浜アリーナ 1992/9/11)",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/12_スピード_(Live_at_横浜アリーナ_1992_9_11)_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "スピード - Speed",
+      "artist": "yutori",
+      "has_synced": true,
+      "path": "select/13_スピード_-_Speed_yutori.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "スピード",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/14_スピード_BUCK-TICK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スピード",
+      "artist": "森口 博子",
+      "has_synced": false,
+      "path": "select/pl_01_スピード_森口_博子.txt"
+    }
+  ]
+}
